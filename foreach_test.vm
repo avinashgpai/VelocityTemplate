@@ -1,0 +1,2 @@
+#foreach($item in $itemList)
+$itemId = $itemId + $iitem
